@@ -1,8 +1,7 @@
 # ##################################
 #
-# This is ELO reward system projects
-
-# `elo-project`
+# This is an Andromeda ICO project
+# `andromeda-project`
 
 > React components and hooks for fast building dApps without running own backend
 
